@@ -1,1 +1,3 @@
 this file is test one related to graphical user interface
+
+text file is modified from the Remote repoistory now 
